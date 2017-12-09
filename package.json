@@ -1,0 +1,24 @@
+{
+  "name": "KFBlobBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindskelsey/KFBlobBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindskelsey/KFBlobBot/issues"
+  },
+  "homepage": "https://github.com/lindskelsey/KFBlobBot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "mysql": "^2.15.0"
+  }
+}
